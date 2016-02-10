@@ -920,4 +920,5 @@ window.units = [
 	[ "Aphelandra", "QCK", "Slasher", 3, 15, 6, 1, 70, 1066998, 98, 42, 32, 2001, 604, 141, 1 ],
 	[ "Sweet Pea", "STR", [ "Tough", "Shooter" ], 3, 15, 4, 2, 70, 1066998, 210, 157, 26, 1041, 1041, 155, 1 ],
 	[ "Sengoku, The One And Only", "PSY", ["Knowledge", "Fighter"], 6, 55, 4, 6, 99, 3000000, 1600, 500, 100, 4000, 2000, 653, 1],
+	[ "Septino, Sengoku's Goat", "PSY", ["Evolution", "Freedom"], 6, 55, 1, 6, 99, 10000000, 100, 100, 100, 1234, 5678, 9000, 1],
 ];
