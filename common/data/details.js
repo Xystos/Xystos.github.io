@@ -4256,7 +4256,7 @@ window.details = {
 	920: {
 		specialName: "Snake Bow of the Warrior Defending Her Country",
 		special: "Changes the orbs in the middle row into [RCV] orbs, changes the orbs in the bottom row into [TND] orbs"
-	}
+	},
 	921: {
 		captain: "Boosts ATK of PSY characters by 4x, recover a large amount of health at the end of each turn",
 		specialName: "Shockwave of Justice",
