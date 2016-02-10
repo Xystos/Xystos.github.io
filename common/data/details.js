@@ -4261,5 +4261,10 @@ window.details = {
 		captain: "Boosts ATK of PSY characters by 4x, recover a large amount of health at the end of each turn",
 		specialName: "Shockwave of Justice",
 		special: "Deal 1,000,000 fixed damage to all enemies, delays all enesmies for 4 turns"
+	},
+	922: {
+		captain: "Boosts Units with 'Sengoku' in its name by 5.5x",
+		specialName: "Eat Important Documents",
+		special: "Reduces damage received by 100% for 99 turns"
 	}
 };
