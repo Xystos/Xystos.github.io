@@ -321,7 +321,7 @@ window.tandems = [
     },
     {
         "name": "Marine Power Activate!",
-        "desc": "Deal 4,000,000 fixed damage to all enemies",
+        "desc": "Deals 4,000,000 fixed damage to all enemies",
         "units": [ 921, 306 ]
-    }
+    },
 ];
